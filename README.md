@@ -1,343 +1,251 @@
-# Hi there, nice to meet you!
+# LEVY OMOLO (omololevy)
 
-<table cellspacing="1" cellpadding="2" valign="middle" style="border-collapse: collapse; border: none;">
-  <tbody>
-    <tr style="border: none;">
-      <td style="border: none;">
 
-- **[GitHub](https://github.com/SelimHorri)**
-- **[GitHub Repositories](https://github.com/SelimHorri?tab=repositories)**
-- **[Azure DevOps](https://dev.azure.com/SelimHorri/GitHub%20Opensource%20Projects)**
-- **[Docker Hub](https://hub.docker.com/u/selimhorri)**
-- **[LinkedIn](https://www.linkedin.com/in/selim-horri-98b363158/)**
-- **[Facebook](https://www.facebook.com/SelimHorri/)**
-- **[Instagram](https://www.instagram.com/selimhorri/)**
-- **[StackOverflow](https://stackoverflow.com/users/8924970/selim-horri)**
-<!--- **[My website / Business card](https://cochyhung.com/)**-->
-<!--- **[LinkTree](https://linktr.ee/cochyhung)**-->
-<!-- - **[Found anything useful?! Buy me a cup of coffee if you feel like it. Thanks!️](https://sites.google.com/view/atkuzmanov/home) ☕** -->
-<!-- - [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V22AJ80) -->
-<!-- - **[Hackerrank](https://www.hackerrank.com/atkuzmanov?hr_r=1)** -->
-<!-- - **[LeetCode](https://leetcode.com/atkuzmanov/)** -->
-<!--- **[Repl.it](https://repl.it/@atkuzmanov)** -->
-<!--- **[Repl.it Referral](https://repl.it/upgrade/atkuzmanov)** -->
-<!-- - **[Postman](https://explore.postman.com/atkuzmanov)** -->
-  </tbody>
+<div align="center">
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+            <img src="https://img.icons8.com/fluency/30/000000/star.png" /><img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
+ </div><br>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=omololevy&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="omololevy" /> </p>
+
+
+<!-- GREETING  -->
+<h3 align="center">
+  Hello! Welcome to my profile.<br> *****
+             
+
+<p align="center">
+  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20cotechlevy@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+</p>
+
+<div align="center"> Social and Contact Info. </div><br>
+  <p align="center">
+<a href="https://levy-omolo.herokuapp.com/"><img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/levy-omolo/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
+<a href="mailto:cotechlevy@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; <br>
+<a href="https://twitter.com/kaylor254"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.hackerrank.com/levy_omolo"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
+<a href="https://www.researchgate.net/profile/Levy-Omolo-2"><img src="https://img.shields.io/badge/researchgate-4c334d?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
+
+<a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
+</p><br>
+
+<!-- BADGES -->
+<p align="center">
+<img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
+<img src="https://img.shields.io/badge/Hobby-Coding-blue" />
+<img src="https://img.shields.io/badge/Programming-Python%2C%20JavaScript-blue" />
+<img src="https://img.shields.io/badge/Lives-Nairobi-blue" />
+<img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
+</p><br>
+
+
+<div align="center">
+
+## 🎓📚 Education 
+![](https://img.shields.io/badge/maseno_universty-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
+  ![](https://img.shields.io/badge/moringa_school-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
+ ![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) ![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6) ![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
+ 
+ ![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
+
+</div>
+
+
+
+</h3> <br><br>
+
+## Skills and Tools
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Languages</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Python</td>
+      <td align="center" width=110>JavaScript</td>
+      <td align="center" width=110>Typescript</td>
+      <td align="center" width=110>CSS</td>
+      <td align="center" width=110>HTML</td>
+    </tr>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
+      <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
+    <tr> 
+      <td align="center" width=110>PostgreSQL</td>
+      <td align="center" width=110>MySQL</td>
+      <td align="center" width=110>SQLite</td>
+      <td align="center" width=110>Ba$h</td>
+      <td align="center" width=110>Markdown</td>
+    </tr>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="3">Frameworks & Libraries </th>
+        <th colspan="3">Agile Methodologies</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> </td>
+      <td align="center" width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119071-da8aff75-02b1-4c6d-8232-507b9454cd49.png"/></td>
+      <td align="center" width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
+      <tr align="center"> 
+        <td align="center" width=110>Angular</td>
+        <td align="center" width=110>Django</td>
+        <td align="center" width=110>Flask</td>
+        <td align="center" width=110>Scrum</td>
+        <td align="center" width=110>T.D.D.</td>
+      </tr>
+      <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
+      <tr align="center"> 
+        <td align="center" width=110>Bootstrap</td>
+        <td align="center" width=110>JQuery</td>
+      </tr>
+    </tr>
+  </table>
+  <table>
+    <thead>
+    <tr>
+      <th colspan="7">Tools</th>
+    </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
+      <td align="center" width=110> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Heroku</td>
+      <td align="center" width=110>Figma</td>
+      <td align="center" width=110>Git</td>
+      <td align="center" width=110>GitHub</td>
+      <td align="center" width=110>Trello</td>
+    </tr>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td> 
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
+    </tr>
+    <tr> 
+      <td align="center" width=110>VSCode</td>
+      <td align="center" width=110>Pycharm</td>
+      <td align="center" width=110>IntelliJ</td>
+      <td align="center" width=110>Vim</td>
+      <td align="center" width=110>Google Cloud</td>
+    </tr>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Docker</td>
+      <td align="center" width=110>Jenkins</td>
+      <td align="center" width=110>Jupyter</td>
+      <td align="center" width=110>Jira</td>
+      <td align="center" width=110>CodePen</td>
+    </tr>
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Operating Systems</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> </td>
+    <tr> 
+      <td align="center" width=110>Windows</td>
+      <td align="center" width=110>Linux</td>
+      <td align="center" width=110>Ubuntu</td>
+      <td align="center" width=110>Debian</td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+## 📊 GitHub Statistics
+<table>
+<tr>
+<td>
+<a href="https://github.com/omololevy/omololevy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=omololevy&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+</td>
+<td>
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omololevy&theme=highcontrast&layout=compact" />
+  </a>
+</td>
+</tr>
+
+<tr>
+<td>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omololevy"/>
+</td>
+<td>
+            <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omololevy"/>
+</td>
+</tr>
+
+<tr>
+<tr>
+        <th colspan="7"><a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+      </tr>
+<td align="center">
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omololevy&theme=highcontrast&layout=compa")](https://git.io/streak-stats)
+
+
+</td>
+<td align="center">
+<p align="center">
+</p>
+            <img align="right" alt="Developer Levy Omolo" src="code.gif" width="350" height="190" />
+</td>
+</tr>
 </table>
 
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![SelimHorri's github stats](https://github-readme-stats.vercel.app/api?username=SelimHorri&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimHorri&hide=Rich%20Text%20Format,scheme,xml,shell,yaml,haml,php,json,css,sass,scss,javascript,vim%20script&langs_count=10&&exclude_repo=blueprintcode-scalatra-wip-temp-example-2018-02-01,blueprintcode-react-wip-temp-example-2018-02-01,javascript-playground-wip-temp-examples&layout=compact&theme=tokyonight)](https://github.com/SelimHorri/github-readme-stats)|
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=SelimHorri)||
-|***PINNED REPOS***|***PINNED REPOS***|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=ecommerce-microservice-backend-app&theme=react)](https://github.com/SelimHorri/ecommerce-microservice-backend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=project-tracking-system-backend-app&theme=react)](https://github.com/SelimHorri/project-tracking-system-backend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=quarkus-plays-with-spring-h2-panache&theme=react)](https://github.com/SelimHorri/quarkus-plays-with-spring-h2-panache)|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=jhipster-architectural-comparison&theme=react)](https://github.com/SelimHorri/jhipster-architectural-comparison)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=employees-simple-management&theme=react)](https://github.com/SelimHorri/employees-simple-management)|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=angular-frontend-app&theme=react)](https://github.com/SelimHorri/angular-frontend-app)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelimHorri&repo=spring-boot-angular-confinement&theme=react)](https://github.com/SelimHorri/spring-boot-angular-confinement)
+### The Pace:
 
-<table border="0" cellspacing="0" cellpadding="0" allign="center">
-  <tbody>
-    <tr>
-      <th colspan="3">CURRENT STACK</th>
-      <th colspan="3">PROGRESSING IN</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.oracle.com/uk/java/">
-          <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://spring.io/projects/spring-boot">
-          <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" alt="SpringBoot" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://spring.io/">
-          <img src="https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2" alt="Spring" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.graalvm.org/">
-          <img src="https://www.graalvm.org/resources/img/graalvm.png" alt="Spring" width="70" height="70"/>
-        </a>
-      </td>
-			<td align="center">
-        <a href="https://quarkus.io/">
-          <img src="https://images.squarespace-cdn.com/content/5c9b21c1e666692d1b33460b/1557409975418-CRFDZ3MOM347RNLL2C33/quarkus-logo-large.jpg?content-type=image%2Fjpeg" alt="Spring" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.oracle.com/uk/database/technologies/">
-          <img src="https://pbs.twimg.com/profile_images/1448975437246255105/cc989Pmx_400x400.jpg" alt="Oracle Database" width="70" height="70"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://aws.amazon.com/">
-          <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="aws" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="">
-          <a href="https://www.mysql.com/">
-            <img src="https://i1.wp.com/fileserialkey.com/wp-content/uploads/2019/07/2-2.png?fit=300%2C300&ssl=1" alt="MySQL SQL" width="70" height="70"/>
-          </a>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.mongodb.com/">
-          <img src="https://www.jorgehernandezramirez.com/wp-content/uploads/2017/03/mongodb.png" alt="mongoDB" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://nodejs.org/en/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.python.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python" width="70" height="70"/> 
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://angular.io/">
-          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="AngularJS" width="70" height="70"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg" alt="git" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.scala-lang.org/">
-          <img src="https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png" alt="Scala" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://en.wikipedia.org/wiki/HTML5">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://en.wikipedia.org/wiki/CSS">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS css3" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://en.wikipedia.org/wiki/JavaScript">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://cassandra.apache.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1200px-Cassandra_logo.svg.png" alt="Oracle Database" width="70" height="70"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.docker.com/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="docker" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://kubernetes.io/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.heroku.com/">
-          <img src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1491420676/cenlvst0fgs8ejx12n8u.png" alt="Heroku" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://reactjs.org/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="ReactJS" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://azure.microsoft.com/en-us/">
-          <img src="https://mspoweruser.com/wp-content/uploads/2017/09/azure-1.png" alt="MS Azure" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.jenkins.io/">
-          <img src="https://miro.medium.com/max/1600/1*LOFbTP2SxXcFpM_qTsUSuw.png" alt="Jenkins" width="70" height="70"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://spark.apache.org/">
-          <img src="https://www.onlinebooksreview.com/uploads/blog_images/2017/11/27_file.png" alt="Apache Spark" width="70" height="70"/>
-        </a>
-      </td>
-			<td align="center">
-        <a href="https://www.elastic.co/">
-          <img src="https://mms.businesswire.com/media/20210107005214/en/712541/5/elastic-logo-V-full_color.jpg" alt="ELK Stack" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://en.wikipedia.org/wiki/Linux">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="70" height="70"/>
-        </a>
-      </td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center" colspan="6"><b><i>*In no particular order</i></b>.</td>
-    </tr>
-  </tbody>
-</table>
+<div>  
+<img src="https://github-profile-trophy.vercel.app/?username=omololevy&margin-w=15&margin-h=15" />
 
----
+</div>
+<div align="right">
+  
+  ![Snake animation](https://github.com/omololevy/omololevy/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
-***"You need to rescue the princess with code - but sometimes your code doesn't work and the princess is a dragon and you're a fish. Welcome to programming:"*** - <https://toggl.com/programming-princess/>
-
----
-
-***"Premature optimization is the root of all evil in programming."*** - Donald Knuth
-
----
-
-***P.S.***
-
-***Lost all my repositories, so some things here could be ancient remnants I salvaged, despite the new date.***
-
-<details>
-  <summary> <strong>Details</strong> </summary>
-  <br/>
-
-- **[Financial Times (FT) GitHub 90% private repos](https://github.com/atanaskuzmanov-ft)**
-- **[BBC GitHub 100% private repos](https://github.com/atanaskuzmanov)**
-- **[Old 99% deleted defunct GitHub](https://github.com/atkuzmanov-zz)**
-</details>
-
----
-
-<details>
-  <summary> <strong>References & more</strong> </summary>
-  <br/>
-  <blockquote>
-  References:
-
-  <https://pixabay.com/photos/abstract-art-modern-art-design-1245745/>
-
-  <https://giphy.com/gifs/pixels-github-commit-26u4nJPf0JtQPdStq>
-
-  <https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif>
-
-  <https://toggl.com/programming-princess/>
-
-  <https://github.com/anuraghazra/github-readme-stats>
-
-  <https://www.youracclaim.com/badges/77eb4480-a202-44ae-85da-fb729e84081d/public_url>
-
-  <https://devicon.dev/>
-
-  <https://www.iconfinder.com/>
-  </blockquote>
-  <blockquote>
-  Tech stack logo images references:
-
-  <https://www.java.com/en/>
-  <https://go.java/oce/assets/images/CONT9BB45F30C47F489B91D36198A6449A06/native/jc06-java-logo.png>
-  <https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg>
-
-  <https://spring.io/>
-  <https://spring.io/images/projects/spring-framework-640ad1b04f7efa89e0f0f7353e6b5e02.svg?v=2>
-  <https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg>
-  <https://en.wikipedia.org/wiki/Spring_Framework#/media/File:Spring_Framework_Logo_2018.svg>
-
-  <https://golang.org/>
-  <https://golang.org/lib/godoc/images/go-logo-blue.svg>
-  <https://golang.org/doc/gopher/doc.png>
-  <https://upload.wikimedia.org/wikipedia/commons/2/23/Golang.png>
-
-  <https://kotlinlang.org/>
-  <https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg>
-
-  <https://reactjs.org/>
-  <https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg>
-
-  <https://aws.amazon.com/>
-  <https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png>
-
-  <https://www.mysql.com/>
-  <https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png>
-
-  <https://www.mongodb.com/>
-  <https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png>
-
-  <https://nodejs.org/en/>
-  <https://nodejs.org/static/images/logo.svg>
-  <https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg>
-
-  <https://www.python.org/>
-  <https://www.python.org/static/img/python-logo.png>
-  <https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg>
-
-  <https://angular.io/>
-  <https://angular.io/assets/images/logos/angular/angular.svg>
-  <https://angularjs.org/>
-  <https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg>
-  <https://en.wikipedia.org/wiki/Angular_(web_framework)#/media/File:Angular_full_color_logo.svg>
-
-  <https://github.com/>
-  <https://upload.wikimedia.org/wikipedia/commons/9/95/Font_Awesome_5_brands_github.svg>
-  <https://upload.wikimedia.org/wikipedia/commons/e/ef/Octicons-logo-github.svg>
-
-  <https://en.wikipedia.org/wiki/JavaScript>
-  <https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png>
-
-  <https://www.scala-lang.org/>
-  <https://www.scala-lang.org/resources/img/frontpage/scala-spiral.png>
-  <https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg>
-
-  <https://en.wikipedia.org/wiki/HTML5>
-  <https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg>
-
-  <https://en.wikipedia.org/wiki/CSS>
-  <https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg>
-
-  <https://www.docker.com/>
-  <https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg>
-
-  <https://kubernetes.io/>
-  <https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg>
-
-  <https://www.apple.com/>
-  <https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg>
-  <https://en.wikipedia.org/wiki/MacOS>
-  <https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg>
-
-  <https://en.wikipedia.org/wiki/Linux>
-  <https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg>
-  </blockquote>
-  <img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" alt="example temporary" width="480" height="184"/>
-</details>
-
----
-
-<!--
-👋 😃
-**AM208vn/AM208vn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/omololevy/omololevy/) !
